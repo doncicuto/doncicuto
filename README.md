@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🪐 You can visit my [Blog](https://sologitops.com/)
 - ✨ While I truly believe in Open Source and I enjoy providing help to others, if you ever found my help extremely helpful and you want to send me something as a gift (you don't have to but you know :smile:) here you have my [Amazon Wishlist ](https://www.amazon.es/hz/wishlist/ls/34678YVFGIAX5?ref_=wl_share)
  
-[![doncicuto's GitHub | Stats](https://stats.quira.sh/doncicuto/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=doncicuto)
-<!--[![doncicuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=doncicuto)](https://github.com/doncicuto/github-readme-stats)-->
+<!--[![doncicuto's GitHub | Stats](https://stats.quira.sh/doncicuto/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=doncicuto)-->
+[![doncicuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=doncicuto)](https://github.com/doncicuto/github-readme-stats)
