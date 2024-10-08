@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - ✨ While I truly believe in Open Source and I enjoy providing help to others, if you ever found my help extremely helpful and you want to send me something as a gift (you don't have to but you know :smile:) here you have my [Amazon Wishlist ](https://www.amazon.es/hz/wishlist/ls/34678YVFGIAX5?ref_=wl_share)
  
 <!--[![doncicuto's GitHub | Stats](https://stats.quira.sh/doncicuto/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=doncicuto)-->
-[![doncicuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=doncicuto)](https://github.com/doncicuto/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=doncicuto&layout=compact"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=doncicuto"/>
+[![doncicuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=doncicuto&theme=dark)](https://github.com/doncicuto/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=doncicuto&layout=compact&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=doncicuto&theme=dark"/>
