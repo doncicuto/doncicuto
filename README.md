@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 <!--[![doncicuto's GitHub | Stats](https://stats.quira.sh/doncicuto/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=doncicuto)-->
 [![doncicuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=doncicuto)](https://github.com/doncicuto/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doncicuto&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=doncicuto"/>
