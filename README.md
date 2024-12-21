@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m looking for a new job and in the meanwhile I'm currently working on [a trip planner for Castile and Leon region](https://cyl.comovoy.eu) and Glim
+- 🔭 I’m looking for a new job and in the meanwhile I'm currently working on my new Open Source project (coming soon...), [a trip planner for Castile and Leon region](https://cyl.comovoy.eu) and Glim
 - 👯 I’m contributing open source code to [Zitadel](https://github.com/zitadel/zitadel)
-- 🪐 You can visit my [Blog](https://sologitops.com/)
+- 🪐 You can visit my [Blog](https://blog.arrakis.ovh/)
 - ✨ While I truly believe in Open Source and I enjoy providing help to others, if you ever found my help extremely helpful and you want to send me something as a gift (you don't have to but you know :smile:) here you have my [Amazon Wishlist ](https://www.amazon.es/hz/wishlist/ls/34678YVFGIAX5?ref_=wl_share)
  
 <!--[![doncicuto's GitHub | Stats](https://stats.quira.sh/doncicuto/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=doncicuto)-->
