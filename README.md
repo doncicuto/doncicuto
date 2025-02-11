@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 ### Most used languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doncicuto&layout=compact&theme=dark"/>
 
-### Total contributions and streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=doncicuto&theme=dark"/>
