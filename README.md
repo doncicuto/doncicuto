@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doncicuto&layout=compact&theme=dark"/>
 
 ### Most active GitHub users in Spain
-[![committers.top badge](https://user-badge.committers.top/spain_public/USERNAME.svg)](https://user-badge.committers.top/spain_public/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/spain_public/doncicuto.svg)](https://user-badge.committers.top/spain_public/doncicuto)
