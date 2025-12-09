@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![doncicuto's GitHub stats](https://github-readme-stats-openuem.vercel.app/api?username=doncicuto&theme=dark)](https://github.com/doncicuto/github-readme-stats)
 
 ### Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doncicuto&&layout=compact&theme=dark)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=doncicuto&&layout=compact&theme=dark](https://github-readme-stats-openuem.vercel.app/api/top-langs?username=doncicuto&layout=compact&theme=dark))
 
 ### Most active GitHub users in Spain
 [![committers.top badge](https://user-badge.committers.top/spain_public/doncicuto.svg)](https://user-badge.committers.top/spain_public/doncicuto)
