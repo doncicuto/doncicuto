@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 - ✨ While I truly believe in Open Source and I enjoy providing help to others, if you ever found my help extremely helpful and you want to send me something as a gift (you don't have to but you know :smile:) here you have my [Amazon Wishlist ](https://www.amazon.es/hz/wishlist/ls/34678YVFGIAX5?ref_=wl_share)
  
 ### GitHub Stats
-[![doncicuto's GitHub stats](https://github-readme-stats-openuem.vercel.app/api?username=doncicuto&theme=dark)](https://github.com/doncicuto/github-readme-stats)
+[![doncicuto's GitHub stats](https://github-readme-stats-eosin-five-12.vercel.app/api?username=doncicuto&theme=dark)](https://github-readme-stats-eosin-five-12.vercel.app/api?username=doncicuto&theme=dark)
 
 ### Most used languages
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=doncicuto&&layout=compact&theme=dark](https://github-readme-stats-openuem.vercel.app/api/top-langs?username=doncicuto&layout=compact&theme=dark))
+[![Top Langs](https://github-readme-stats-eosin-five-12.vercel.app/api/top-langs/?username=doncicuto&&layout=compact&theme=dark)](https://github-readme-stats-eosin-five-12.vercel.app/api/top-langs?username=doncicuto&layout=compact&theme=dark)
 
 ### Most active GitHub users in Spain
 [![committers.top badge](https://user-badge.committers.top/spain_public/doncicuto.svg)](https://user-badge.committers.top/spain_public/doncicuto)
