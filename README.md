@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 - 🪐 You can visit my [Blog](https://blog.arrakis.ovh/)
 - ✨ While I truly believe in Open Source and I enjoy providing help to others, if you ever found my help extremely helpful and you want to send me something as a gift (you don't have to but you know :smile:) here you have my [Amazon Wishlist ](https://www.amazon.es/hz/wishlist/ls/34678YVFGIAX5?ref_=wl_share)
  
-<!--[![doncicuto's GitHub | Stats](https://stats.quira.sh/doncicuto/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=doncicuto)-->
 ### GitHub Stats
 [![doncicuto's GitHub stats](https://github-readme-stats-openuem.vercel.app/api?username=doncicuto&theme=dark)](https://github.com/doncicuto/github-readme-stats)
 
 ### Most used languages
-<img src="github-readme-stats-openuem.vercel.app/api/top-langs?username=doncicuto&layout=compact&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doncicuto&&layout=compact&theme=dark)
 
 ### Most active GitHub users in Spain
 [![committers.top badge](https://user-badge.committers.top/spain_public/doncicuto.svg)](https://user-badge.committers.top/spain_public/doncicuto)
